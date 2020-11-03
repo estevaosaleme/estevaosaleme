@@ -5,12 +5,6 @@
     <img 
          align="center" 
          height="165"
-         src="https://github-readme-stats.vercel.app/api?username=estevaosaleme&show_icons=true&include_all_commits=true" alt="marcelo-rafael github stats" />
-  </a>
-  <a href="https://github.com/estevaosaleme/github-readme-stats">
-    <img 
-         align="center" 
-         height="165"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosaleme&layout=compact" 
      />
   </a>
